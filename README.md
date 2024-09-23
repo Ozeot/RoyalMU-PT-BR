@@ -5,7 +5,7 @@ Olá, pessoal! 😄
 Primeiramente, quero agradeçer ao @kee.whi, criador do tema original do **RoyalMU** . Além disso, um grande obrigado ao @aza_maulana por criar o script que permite rodar o **Tailscale** na aba de APPS, e ao @chronoss0109 pela ideia do gif de carregamento! 🙌
 
 Traduzi a versão **Dark**
-Fiz algumas adaptações nas caixas de texto para que elas não ficassem pequenas demais, sem mexer no layout geral, mantendo o tema original com originalidade. 🖤
+Fiz algumas adaptações nas caixas de texto para que elas não ficassem pequenas demais, sem mexer no layout geral, mantendo a originalidade do tema. 🖤
 
 ![explore](https://github.com/user-attachments/assets/adba9b57-badb-4d5c-8113-636037124816)
 ![general](https://github.com/user-attachments/assets/5342741f-56ab-4797-8771-412712a8c543)
